@@ -1,0 +1,85 @@
+.container{
+    max-width: 920px;
+    margin: 0 auto;
+}
+.Paragraf h1{
+    font-family: Alegreya Sans SC;
+    color: beige;
+    font-weight: lighter;
+    text-align: center;
+    transition: 0.3s;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+.Paragraf p{
+    float: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 49%;
+    font-family: Alegreya Sans SC;
+    color: aliceblue;
+}
+.Paragraf img{
+    width: 500px;
+    float: left;
+    width: 49%;
+    margin-right: 10px;
+}
+.Paragraf{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.Paragraf2 .secondPar{
+    font-family: Alegreya Sans SC;
+    color: aliceblue;
+    width: 49%;
+    float: left;
+    margin-bottom: 0px;
+}
+.Paragraf2 img{
+    width: 520px;
+    float: right;
+    width: 49%;
+    margin-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 300px;
+}
+.Paragraf2{
+    width: 100%;
+}
+body{
+    background-image: url(http://www.horadent.com/i/2017/05/dark-wallpapers-high-quality.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    margin-bottom: 0px;
+}
+.Paragraf3 .thirdPar{
+    font-family: Alegreya Sans SC;
+    color: aliceblue;
+    float: left;
+    margin-top: 0px;
+}
+.Menu ul li{
+    display: inline-block;
+    font-family: Alegreya Sans SC;
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+ul{
+    list-style: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.Menu{
+    text-align: right;
+}
+ul li:hover{
+    cursor: pointer;
+    background-color: dimgrey;
+    border-radius: 3px;
+}
